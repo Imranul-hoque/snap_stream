@@ -1,7 +1,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/Imranul-hoque/advanced_todo_list.git
+  git clone https://github.com/Imranul-hoque/snap_stream.git
 ```
 
 Go to the project directory
